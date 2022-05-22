@@ -40,7 +40,7 @@ Have a day full of JOY today.
 
 <br>
 
-## Interest 👀
+## Interest
 - 흥미1 = Game
 - 흥미2 = YouTube
 
