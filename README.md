@@ -41,8 +41,8 @@ Have a day full of JOY today.
 <br>
 
 ## Interest
-- 흥미1 = Game
-- 흥미2 = YouTube
+- Interest1 = Game
+- Interest2 = YouTube
 
 ## Recent condition
 - Studying at Semyung University
