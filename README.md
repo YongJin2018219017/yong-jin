@@ -39,11 +39,11 @@ Have a day full of JOY today.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asasc6229@gmail.com)](mailto:asasc6229@gmail.com)
 
 <br>
-## Recent condition
-- Studying at Semyung University
-- studying for certification
 
 ## Interest 👀
 - 흥미1 = Game
 - 흥미2 = YouTube
 
+## Recent condition
+- Studying at Semyung University
+- studying for certification
