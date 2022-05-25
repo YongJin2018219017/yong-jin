@@ -39,6 +39,7 @@ Have a day full of JOY today.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asasc6229@gmail.com)](mailto:asasc6229@gmail.com)
 
 <br>
+
 ## Motive
 저는 목표나 꿈이 없습니다. 어렸을때 부터 꿈이 없었기에 장래희망에는 회사원을 적은적이 있었습니다. </div>
 나이를 먹으면서 아버지의 직업을 따라 갈까 라는 생각을 했었지만 부모님의 반대로 넘어갔습니다 바라는게 아니라서 슬프지는 않았습니다. </div>
