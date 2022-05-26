@@ -1,6 +1,20 @@
-# 용진 Yong Jin
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <div align = "center">
+ <h1>환영합니다~~ </h1>
+
+<h2> 용진 Yong Jin.. </h2>
+
+<p>
+ 
+</p>
+
+<a href = "https://github.com/YongJin2018219017"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+<a href = "https://spring.io"> <img alt="Spring" src ="https://img.shields.io/badge/Spring-43853d?&style=for-the-badge&logo=Spring&logoColor=ffffff" /></a>
+
+
+
+
 <br/>
 Hello, I'm Yong Jin Kim.<br/>
 My goal is to receive good moderate labor and moderate salary.<br/>
@@ -9,7 +23,6 @@ Have a day full of JOY today.
 ﹏﹏﹏﹏﹏﹏﹏
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
 
 <br/>
 
@@ -59,6 +72,3 @@ Have a day full of JOY today.
 저의 MBTI는 ISFJ(용감한 수호자)입니다.  </div>
 저는 저의 MBTI가 맞다고 생각합니다. 사람들이 MBTI를 재미만으로 보고 있다고 생각해도 저는 저의 MBTI가 저에게 맞고 오히려 제가 잘하는게 맞는걸까 하는 가치관을 똑바로 세워줍니다.  </div>
 누군가에게 계기가 되어 가치관을 찾을 수 있다는 점에서 저는 좋은 심리 검사 라고 생각합니다.  </div>
-
-
-
